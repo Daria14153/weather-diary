@@ -1,0 +1,9 @@
+weather_data.json
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+venv/
+env/
+.idea/
+.vscode/
